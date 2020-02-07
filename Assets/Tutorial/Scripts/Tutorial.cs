@@ -19,7 +19,7 @@ public class Tutorial : MonoBehaviour
         if( OpenBrowser && OpenOnce )
         {
             OpenOnce = false;
-            System.Diagnostics.Process.Start( "http://localhost:8342/tutorial/index.html" );
+            //System.Diagnostics.Process.Start( "http://localhost:8342/tutorial/index.html" );
         }
     }
 

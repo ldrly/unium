@@ -619,7 +619,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    7: UNIUM_ENABLE
   platformArchitecture:
     iPhone: 2
   scriptingBackend:
