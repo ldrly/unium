@@ -91,6 +91,7 @@
             <e p="Root.cs" t="Include" />
             <e p="UniumUtils.cs" t="Include" />
           </e>
+          <e p="link.xml" t="Include" />
           <e p="Routing" t="Include">
             <e p="HandlerFile.cs" t="Include" />
             <e p="HandlerGQL.cs" t="Include" />
@@ -106,6 +107,7 @@
           <e p="UniumSimulate.cs" t="Include" />
         </e>
       </e>
+      <e p="gw.unium.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Temp/bin" t="ExcludeRecursive" />
